@@ -17,7 +17,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/Clytage/rawon.git"
+		"url": ""
 	},
 	"author": "Beast",
 	"license": "BSD-3-Clause",
